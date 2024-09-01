@@ -8451,7 +8451,7 @@ var $async$W8=A.D(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:if($.ai==null)A.ar1()
 $.ai.toString
 s=2
-return A.I($.G4().z6(".env"),$async$W8)
+return A.I($.G4().z6("dotenv"),$async$W8)
 case 2:q=$.G4().gyn().h(0,"API_KEY")
 if(q==null)q=""
 p=$.G4().gyn().h(0,"APP_ID")
